@@ -52,7 +52,7 @@ I'm building my own game and learning a LOT, all the time.
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArninrA&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&size_weight=0&count_weight=1)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArninrA&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&size_weight=0&count_weight=1)
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api/?username=ArninrA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
