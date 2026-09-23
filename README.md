@@ -52,12 +52,10 @@ I'm building my own game and learning a LOT, all the time.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArninrA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=ArninrA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArninrA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ArninrA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ⭐️ *"I don't fill my head with things like wins or losses. That way of interacting with society is where happiness lies."*
