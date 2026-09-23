@@ -38,6 +38,7 @@ I'm building my own game and learning a LOT, all the time.
 ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Currently learning:**  
 ![Web Development](https://img.shields.io/badge/-Web%20Development-4B8BBE?style=flat-square&logo=htmlacademy&logoColor=white)
