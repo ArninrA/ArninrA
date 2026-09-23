@@ -52,10 +52,8 @@ I'm building my own game and learning a LOT, all the time.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArninrA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArninrA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ArninrA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api/?username=ArninrA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ⭐️ *"I don't fill my head with things like wins or losses. That way of interacting with society is where happiness lies."*
